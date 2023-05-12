@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assest/Calc.ico</file>
+    </qresource>
+</RCC>
